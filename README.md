@@ -1,9 +1,9 @@
-# Json Web Token (JWT) basic usage example with Express...
+# Json Web Token (JWT) basic usage example with Express
   
 *Basic example to understanding the use of JWT.*
 
   
-### Prerequisites...
+### Prerequisites
 
 * [Node.js](https://nodejs.org)
 
@@ -11,7 +11,7 @@
 
 * [Nodemon](https://nodemon.io/)
 
-### Installing...
+### Installing
 
   
 
@@ -39,11 +39,10 @@ cd jwtBasicUsage/ && npm install --save
 
   
 
-## Using...
-
+## Using
   
 
-You will need to run the project with *nodemon*, ports are already configured (8000 port), make sure you don't conflict them if you change anything.
+You will need to run the project with *nodemon*, ports are already configured (port:8000), make sure you don't conflict them if you change anything.
   
 
 ```
@@ -74,5 +73,5 @@ Route | Method | Header | Body | Type | Description
 * [Express](https://expressjs.com/) - Node.js web application framework
   
 
-## Made by...
+## Made by
  [**Jesus Escalante**](https://github.com/ghouljd)
